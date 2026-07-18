@@ -1,4 +1,5 @@
 # Task1-Servo-Motors-Sweep-
+
 This project controls four servo motors using Arduino in Tinkercad.
 
 # Servo Motors Sweep Task
@@ -15,15 +16,9 @@ This project controls four servo motors using Arduino in Tinkercad.
 
 ## Circuit
 
-![Circuit](images/circuit.png)
-
+<img width="1896" height="847" alt="second image tinkercad" src="https://github.com/user-attachments/assets/c161903a-f3ea-4a86-827b-4e1679a626c4" />
 ---
 
-## Simulation
-
-![Simulation](images/simulation.png)
-
----
 
 ## Demo Video
 
